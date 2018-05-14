@@ -1,0 +1,866 @@
+2017-11-14 13:16:43,191 - AirwatchRun -INFO - name_of_product0Product331
+2017-11-14 13:16:43,468 - AirwatchRun -INFO - Username Entered.
+2017-11-14 13:16:43,534 - AirwatchRun -INFO - Password Entered.
+2017-11-14 13:16:47,228 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-14 13:17:00,985 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-14 13:17:00,986 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-14 13:17:03,208 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-14 13:17:05,384 - AirwatchRun -INFO - Product List view clicked
+2017-11-14 13:17:16,415 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-14 13:17:18,548 - AirwatchRun -INFO - Edit button clicked
+2017-11-14 13:17:20,699 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-14 13:17:29,093 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-14 13:17:32,837 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-14 13:17:53,434 - AirwatchRun -INFO - Save button clicked
+2017-11-14 13:18:01,586 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-14 13:18:03,730 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-14 13:18:07,015 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-14 13:18:31,167 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-14 13:18:33,296 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-14 13:19:05,533 - AirwatchRun -INFO - Succesfully the product is queued and Succes Text file is created...
+2017-11-14 13:19:05,533 - AirwatchRun -INFO - Product ==> 01 ==> is Queued found.
+2017-11-14 13:19:05,533 - AirwatchRun -INFO - name_of_product1Test_Product_CopySmallFile
+2017-11-14 13:20:08,272 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.TimeoutException: Timed out after 60 seconds waiting for visibility of element located by By.xpath: //*[@id="UserName"]
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir15328_5072}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27b82e5d4d2600614d9fcfa2ca38ba42
+2017-11-14 13:33:21,236 - AirwatchRun -INFO - Username Entered.
+2017-11-14 13:33:21,320 - AirwatchRun -INFO - Password Entered.
+2017-11-14 13:33:23,444 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-14 13:33:44,939 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-14 13:33:44,940 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-14 13:33:47,134 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-14 13:33:49,288 - AirwatchRun -INFO - Product List view clicked
+2017-11-14 13:34:45,831 - AirwatchRun -INFO - Username Entered.
+2017-11-14 13:34:45,900 - AirwatchRun -INFO - Password Entered.
+2017-11-14 13:34:48,009 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-14 13:35:04,648 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-14 13:35:04,648 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-14 13:35:06,858 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-14 13:35:08,997 - AirwatchRun -INFO - Product List view clicked
+2017-11-14 13:35:20,579 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-14 13:35:22,755 - AirwatchRun -INFO - Edit button clicked
+2017-11-14 13:35:24,862 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-14 13:36:00,529 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-14 13:36:04,746 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-14 13:36:23,985 - AirwatchRun -INFO - Save button clicked
+2017-11-14 13:36:28,862 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-14 13:36:30,991 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-14 13:36:34,234 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-14 13:36:57,777 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-14 13:36:59,889 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-14 13:37:32,624 - AirwatchRun -INFO - Succesfully the product is queued and Succes Text file is created...
+2017-11-14 13:37:32,624 - AirwatchRun -INFO - Product ==> 01 ==> is Queued found.
+2017-11-14 13:37:34,754 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-14 13:37:36,906 - AirwatchRun -INFO - Product List view clicked
+2017-11-14 13:37:48,109 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-14 13:37:50,311 - AirwatchRun -INFO - Edit button clicked
+2017-11-14 13:37:52,478 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-14 13:37:57,227 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-14 13:38:00,847 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-14 13:38:21,296 - AirwatchRun -INFO - Save button clicked
+2017-11-14 13:38:25,961 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-14 13:38:28,147 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-14 13:38:31,370 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-14 13:38:45,565 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-14 13:38:47,678 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-14 13:39:18,823 - AirwatchRun -INFO - Succesfully the product is queued and Succes Text file is created...
+2017-11-14 13:39:18,823 - AirwatchRun -INFO - Product ==> 11 ==> is Queued found.
+2017-11-14 13:39:18,823 - AirwatchRun -INFO - Successfully Completed the Product queuing Process...
+2017-11-14 13:49:01,898 - AirwatchRun -INFO - Username Entered.
+2017-11-14 13:49:01,970 - AirwatchRun -INFO - Password Entered.
+2017-11-14 13:49:04,088 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-14 13:49:17,956 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-14 13:49:17,956 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-14 13:49:20,142 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-14 13:49:22,290 - AirwatchRun -INFO - Product List view clicked
+2017-11-14 13:49:33,061 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-14 13:49:35,201 - AirwatchRun -INFO - Edit button clicked
+2017-11-14 13:49:37,361 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-14 13:49:44,130 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-14 13:49:47,912 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-14 13:50:08,644 - AirwatchRun -INFO - Save button clicked
+2017-11-14 13:50:17,398 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-14 13:50:19,589 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-14 13:50:22,339 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-14 13:50:41,573 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-14 13:50:43,682 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-14 13:51:15,734 - AirwatchRun -INFO - Succesfully the product is queued and Succes Text file is created...
+2017-11-14 13:51:15,734 - AirwatchRun -INFO - Product ==> 01 ==> is Queued found.
+2017-11-14 13:51:17,807 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-14 13:51:19,983 - AirwatchRun -INFO - Product List view clicked
+2017-11-14 13:51:30,867 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-14 13:51:33,007 - AirwatchRun -INFO - Edit button clicked
+2017-11-14 13:51:35,191 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-14 13:51:44,616 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-14 13:51:48,371 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-14 13:52:05,511 - AirwatchRun -INFO - Save button clicked
+2017-11-14 13:52:14,043 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-14 13:52:16,209 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-14 13:52:19,544 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-14 13:52:33,459 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-14 13:52:35,586 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-14 13:53:07,309 - AirwatchRun -INFO - Succesfully the product is queued and Succes Text file is created...
+2017-11-14 13:53:07,310 - AirwatchRun -INFO - Product ==> 11 ==> is Queued found.
+2017-11-14 13:53:07,310 - AirwatchRun -INFO - Successfully Completed the Product queuing Process...
+2017-11-14 14:04:52,418 - AirwatchRun -ERROR - An Exception has occured while reading the contents from Airwatch_parameter.txt file --> 
+File '\MUMD20195\FreestyleSharing\Airwatch_Exe\TC_Details.txt' does not exist
+2017-11-14 14:09:33,863 - AirwatchRun -INFO - Username Entered.
+2017-11-14 14:09:33,932 - AirwatchRun -INFO - Password Entered.
+2017-11-14 14:09:36,044 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-14 14:09:53,840 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.03 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir15232_2916}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3163.100, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4eab5c10fb9c1912555a87f3d784519b
+2017-11-15 18:41:24,538 - AirwatchRun -INFO - Username Entered.
+2017-11-15 18:41:24,629 - AirwatchRun -INFO - Password Entered.
+2017-11-15 18:41:26,742 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-15 18:53:01,857 - AirwatchRun -INFO - Username Entered.
+2017-11-15 18:53:01,933 - AirwatchRun -INFO - Password Entered.
+2017-11-15 18:53:04,044 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-15 18:53:17,514 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-15 18:53:17,515 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-15 18:53:19,775 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-15 18:53:21,930 - AirwatchRun -INFO - Product List view clicked
+2017-11-15 20:06:57,364 - AirwatchRun -INFO - Username Entered.
+2017-11-15 20:06:57,473 - AirwatchRun -INFO - Password Entered.
+2017-11-15 20:06:59,599 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-15 20:07:12,661 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-15 20:07:12,662 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-15 20:07:14,919 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-15 20:07:17,067 - AirwatchRun -INFO - Product List view clicked
+2017-11-15 20:07:35,439 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir7068_32094}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 606eabc0629c9561807c8f143c133d34
+2017-11-15 20:08:43,069 - AirwatchRun -INFO - Username Entered.
+2017-11-15 20:08:43,138 - AirwatchRun -INFO - Password Entered.
+2017-11-15 20:08:45,254 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-15 20:08:57,880 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-15 20:08:57,881 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-15 20:09:00,126 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-15 20:09:02,284 - AirwatchRun -INFO - Product List view clicked
+2017-11-15 20:09:12,144 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-15 20:09:14,314 - AirwatchRun -INFO - Edit button clicked
+2017-11-15 20:09:16,458 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-15 20:09:24,751 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-15 20:09:28,684 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-15 20:10:59,391 - AirwatchRun -INFO - Username Entered.
+2017-11-15 20:10:59,457 - AirwatchRun -INFO - Password Entered.
+2017-11-15 20:11:01,568 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-15 20:11:14,939 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-15 20:11:14,939 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-15 20:11:17,177 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-15 20:11:19,330 - AirwatchRun -INFO - Product List view clicked
+2017-11-15 20:11:29,656 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-15 20:11:31,823 - AirwatchRun -INFO - Edit button clicked
+2017-11-15 20:11:34,001 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-15 20:11:42,344 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-15 20:11:46,280 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-15 20:13:49,303 - AirwatchRun -INFO - Username Entered.
+2017-11-15 20:13:49,368 - AirwatchRun -INFO - Password Entered.
+2017-11-15 20:13:51,482 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-15 20:14:07,105 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-15 20:14:07,106 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-15 20:14:09,327 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-15 20:14:11,521 - AirwatchRun -INFO - Product List view clicked
+2017-11-15 20:14:22,367 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-15 20:14:24,498 - AirwatchRun -INFO - Edit button clicked
+2017-11-15 20:14:26,648 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-15 20:14:34,933 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-15 20:14:38,888 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-15 20:14:54,712 - AirwatchRun -INFO - Save button clicked
+2017-11-15 20:15:00,830 - AirwatchRun -ERROR - An Exception has occured in getElement method --> java.lang.NullPointerException
+2017-11-20 20:24:18,258 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:24:18,412 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:24:20,533 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:24:33,141 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:24:33,142 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:24:35,353 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:24:37,533 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:24:55,335 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.WebDriverException: unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.09 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir1808_3738}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6874d4c4af3756ba2ee522a4b3e8979a
+2017-11-20 20:36:16,481 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:36:16,576 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:36:18,711 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:36:31,547 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:36:31,548 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:36:33,836 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:36:36,016 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:36:46,764 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-20 20:36:48,953 - AirwatchRun -INFO - Edit button clicked
+2017-11-20 20:36:51,171 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-20 20:36:55,420 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-20 20:36:59,205 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-20 20:37:53,013 - AirwatchRun -INFO - Problem ocuurs in dynamicDropdown function
+2017-11-20 20:37:53,013 - AirwatchRun -INFO - program is terminating...
+2017-11-20 20:39:35,717 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:39:35,830 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:39:37,973 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:39:50,786 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:39:50,786 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:39:53,034 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:39:55,225 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:40:05,863 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-20 20:40:08,052 - AirwatchRun -INFO - Edit button clicked
+2017-11-20 20:40:10,223 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-20 20:40:14,411 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-20 20:40:18,722 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-20 20:40:37,969 - AirwatchRun -INFO - Problem ocuurs in dynamicDropdown function
+2017-11-20 20:40:37,970 - AirwatchRun -INFO - program is terminating...
+2017-11-20 20:41:51,286 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:41:51,367 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:41:53,502 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:42:06,020 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:42:06,020 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:42:08,313 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:42:10,511 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:42:20,760 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-20 20:42:22,971 - AirwatchRun -INFO - Edit button clicked
+2017-11-20 20:42:25,146 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-20 20:42:29,275 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-20 20:42:33,610 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-20 20:42:42,817 - AirwatchRun -INFO - Problem ocuurs in dynamicDropdown function
+2017-11-20 20:42:42,817 - AirwatchRun -INFO - program is terminating...
+2017-11-20 20:44:24,808 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:44:24,894 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:44:27,026 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:44:39,455 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:44:39,456 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:44:41,760 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:44:43,977 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:44:54,659 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-20 20:44:56,813 - AirwatchRun -INFO - Edit button clicked
+2017-11-20 20:44:59,011 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-20 20:45:03,231 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-20 20:45:07,529 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-20 20:45:16,966 - AirwatchRun -INFO - Problem ocuurs in dynamicDropdown function
+2017-11-20 20:45:16,966 - AirwatchRun -INFO - program is terminating...
+2017-11-20 20:47:38,847 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:47:38,944 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:47:41,078 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:47:53,767 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:47:53,768 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:47:56,041 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:47:58,219 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:48:08,472 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-20 20:48:10,709 - AirwatchRun -INFO - Edit button clicked
+2017-11-20 20:48:12,931 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-20 20:48:17,416 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-20 20:48:21,820 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-20 20:48:30,808 - AirwatchRun -INFO - Problem ocuurs in dynamicDropdown function
+2017-11-20 20:48:30,808 - AirwatchRun -INFO - program is terminating...
+2017-11-20 20:56:44,108 - AirwatchRun -INFO - Username Entered.
+2017-11-20 20:56:44,189 - AirwatchRun -INFO - Password Entered.
+2017-11-20 20:56:46,324 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-20 20:56:58,801 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-20 20:56:58,801 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-20 20:57:01,063 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu
+2017-11-20 20:57:03,241 - AirwatchRun -INFO - Product List view clicked
+2017-11-20 20:57:14,080 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-20 20:57:16,289 - AirwatchRun -INFO - Edit button clicked
+2017-11-20 20:57:18,503 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-20 20:57:22,697 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-20 20:57:26,435 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-20 20:57:52,712 - AirwatchRun -INFO - Right ZPL is not entered into the Edit rules in Product Activation
+2017-11-21 13:07:45,663 - AirwatchRun -INFO - Username Entered.
+2017-11-21 13:07:45,799 - AirwatchRun -INFO - Password Entered.
+2017-11-21 13:07:47,970 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-21 13:08:00,529 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-21 13:08:00,529 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-21 13:08:07,138 - AirwatchRun -INFO - List view clicked.
+2017-11-21 13:08:07,436 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-21 13:08:13,561 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-21 13:08:46,175 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-21 13:08:59,796 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-21 13:09:02,799 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-21 13:09:05,194 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-21 13:09:07,923 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-21 13:09:25,043 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="/AirWatch/#/Provisioning/Policies" data-help-id="ProductListView" class="leaf ">...</a> is not clickable at point (189, 342). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 202 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir8160_29449}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d921e7595cb0a323558b15e9e8a70814
+2017-11-21 13:11:59,400 - AirwatchRun -INFO - Username Entered.
+2017-11-21 13:11:59,484 - AirwatchRun -INFO - Password Entered.
+2017-11-21 13:12:01,619 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-21 13:12:14,252 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-21 13:12:14,253 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-21 13:12:20,819 - AirwatchRun -INFO - List view clicked.
+2017-11-21 13:12:21,156 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-21 13:12:27,418 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-21 13:12:59,971 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-21 13:13:13,242 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-21 13:13:16,319 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-21 13:13:18,714 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-21 13:13:21,395 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-21 13:13:41,775 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="/AirWatch/#/Provisioning/Policies" data-help-id="ProductListView" class="leaf ">...</a> is not clickable at point (189, 342). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 254 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir4616_9689}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a652c0c80e30661985fd24faecab4f2d
+2017-11-21 13:19:53,219 - AirwatchRun -INFO - Username Entered.
+2017-11-21 13:19:53,306 - AirwatchRun -INFO - Password Entered.
+2017-11-21 13:19:55,439 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-21 13:20:08,360 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-21 13:20:08,360 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-21 13:20:14,963 - AirwatchRun -INFO - List view clicked.
+2017-11-21 13:20:15,881 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-21 13:20:22,043 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-21 13:20:54,721 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-21 13:21:09,028 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-21 13:21:12,050 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-21 13:21:13,896 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-21 13:21:16,527 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-21 13:21:36,881 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <a href="/AirWatch/#/Provisioning/Policies" data-help-id="ProductListView" class="leaf ">...</a> is not clickable at point (189, 342). Other element would receive the click: <div id="airwatchcustomattributeadd" class="modal_container edit is-responsive--false animated fadeIn" style="display:block" data-bind="afterHtmlRender: 0">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 213 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir2168_7584}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1f34307f068409f003c9f26609f9c65c
+2017-11-21 13:23:12,656 - AirwatchRun -INFO - Username Entered.
+2017-11-21 13:23:12,743 - AirwatchRun -INFO - Password Entered.
+2017-11-21 13:23:14,881 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-21 13:23:27,306 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-21 13:23:27,307 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-21 13:23:33,790 - AirwatchRun -INFO - List view clicked.
+2017-11-21 13:23:34,070 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-21 13:23:40,207 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-21 13:24:14,212 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-21 13:24:27,506 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-21 13:24:30,501 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-21 13:24:32,994 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-21 13:24:35,603 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-21 13:27:56,671 - AirwatchRun -INFO - Username Entered.
+2017-11-21 13:27:56,751 - AirwatchRun -INFO - Password Entered.
+2017-11-21 13:27:58,891 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-21 13:28:11,321 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-21 13:28:11,321 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-21 13:28:17,809 - AirwatchRun -INFO - List view clicked.
+2017-11-21 13:28:18,098 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-21 13:28:24,208 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-21 13:28:58,047 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-21 13:29:13,072 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-21 13:29:16,085 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-21 13:29:18,048 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-21 13:29:20,711 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-21 13:29:39,340 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-21 13:30:39,480 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Your Session Has Expired}
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds: null
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir5080_13693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 9bfc9eb96c5a591d666de27529c74bcb
+*** Element info: {Using=xpath, value=.//*[@id='aw-console']/div[3]/div[2]}
+2017-11-21 13:35:33,190 - AirwatchRun -INFO - Username Entered.
+2017-11-21 13:35:33,304 - AirwatchRun -INFO - Password Entered.
+2017-11-21 13:35:35,469 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-21 13:35:48,598 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-21 13:35:48,598 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-21 13:35:55,078 - AirwatchRun -INFO - List view clicked.
+2017-11-21 13:35:55,361 - AirwatchRun -INFO - Asset Number is entered in Search Id Text Box.
+2017-11-21 13:36:01,928 - AirwatchRun -INFO - Asset Number is Clicked.
+2017-11-21 13:36:34,611 - AirwatchRun -INFO - Edit button is Clicked.
+2017-11-21 13:36:47,529 - AirwatchRun -INFO - Values Menu is Clicked.
+2017-11-21 13:36:50,588 - AirwatchRun -INFO - Add Value is Clicked.
+2017-11-21 13:36:53,194 - AirwatchRun -INFO - ZPL is enetred in Add Value Page.
+2017-11-21 13:36:55,846 - AirwatchRun -INFO - ZPL is Added into the CustomAttribute successfully.
+2017-11-21 13:37:14,778 - AirwatchRun -INFO - Final ZPL is added.
+2017-11-21 13:37:32,452 - AirwatchRun -INFO - Product List view clicked
+2017-11-21 13:37:43,422 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-21 13:37:45,625 - AirwatchRun -INFO - Edit button clicked
+2017-11-21 13:37:47,772 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-21 13:37:52,622 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-21 13:37:56,260 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-21 13:39:41,141 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-21 18:11:54,831 - AirwatchRun -ERROR - An Exception has occured while reading the contents from TC_Details.txt file --> 
+File 'D:\WorkSpace_Selinum\TC_Details.txt' does not exist
+2017-11-22 17:28:44,895 - AirwatchRun -ERROR - An Exception has occured while reading the contents from TC_Details.txt file --> 
+File 'D:\WorkSpace_Selinum\TC_Details.txt' does not exist
+2017-11-22 17:30:13,658 - AirwatchRun -INFO - An exception has occured in productGroupNameMap method --> java.io.FileNotFoundException: D:\WorkSpace_Selinum\TC_Data.xls (The system cannot find the file specified)
+2017-11-22 17:30:59,456 - AirwatchRun -INFO - Username Entered.
+2017-11-22 17:30:59,541 - AirwatchRun -INFO - Password Entered.
+2017-11-22 17:31:01,678 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 17:31:14,477 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 17:31:14,479 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 17:32:14,837 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.TimeoutException: Timed out after 60 seconds waiting for visibility of element located by By.xpath: //a[text()='Product List View']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir8520_10520}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: e20fac6391764c1a65c25990c8e4be49
+2017-11-22 17:44:57,980 - AirwatchRun -INFO - Username Entered.
+2017-11-22 17:44:58,087 - AirwatchRun -INFO - Password Entered.
+2017-11-22 17:45:00,228 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 17:45:12,840 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 17:45:12,840 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 17:45:17,322 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 17:45:28,241 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 18:52:54,183 - AirwatchRun -INFO - Username Entered.
+2017-11-22 18:52:54,308 - AirwatchRun -INFO - Password Entered.
+2017-11-22 18:52:56,468 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 18:53:09,810 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 18:53:09,810 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 18:53:12,130 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 18:53:14,320 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 18:53:24,939 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 18:54:26,760 - AirwatchRun -INFO - Username Entered.
+2017-11-22 18:54:26,874 - AirwatchRun -INFO - Password Entered.
+2017-11-22 18:54:29,034 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 18:54:42,531 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 18:54:42,531 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 18:54:44,883 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 18:54:47,080 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 18:54:58,034 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 18:55:00,250 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 18:55:02,450 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 18:55:10,249 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 18:55:14,257 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 18:55:26,853 - AirwatchRun -INFO - Save button clicked
+2017-11-22 18:55:27,253 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <button class="button large emphasis branded-highlight-bg branded-highlight-item" name="saveAnd..." type="submit" value="Activate">Activate</button> is not clickable at point (676, 568). Other element would receive the click: <div class="actions" align="center">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir8680_8048}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8eb34c1cb4da98692a28d0a380c51300
+2017-11-22 18:57:57,480 - AirwatchRun -INFO - Username Entered.
+2017-11-22 18:57:57,563 - AirwatchRun -INFO - Password Entered.
+2017-11-22 18:57:59,699 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 18:58:12,079 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 18:58:12,080 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 18:58:14,409 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 18:58:16,582 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 18:58:26,809 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 18:58:28,984 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 18:58:31,184 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 18:58:37,993 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 18:58:41,958 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 18:58:54,882 - AirwatchRun -INFO - Save button clicked
+2017-11-22 18:58:55,289 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <button class="button large emphasis branded-highlight-bg branded-highlight-item" name="saveAnd..." type="submit" value="Activate">Activate</button> is not clickable at point (676, 568). Other element would receive the click: <div class="actions" align="center">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 43 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir9900_10494}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 700e68237d07ceb29aff816c1fd707f6
+2017-11-22 19:01:09,909 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:01:09,991 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:01:12,130 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:01:25,063 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:01:25,064 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:01:27,424 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:01:29,611 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 19:01:40,616 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 19:01:42,772 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 19:01:44,944 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 19:01:51,972 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 19:01:55,856 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 19:02:29,283 - AirwatchRun -INFO - Right ZPL is not entered into the Edit rules in Product Activation
+2017-11-22 19:03:49,857 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:03:49,967 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:03:52,130 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:04:04,959 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:04:04,960 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:04:07,323 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:04:09,519 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 19:04:19,741 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 19:04:21,939 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 19:04:24,147 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 19:04:32,752 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 19:04:36,729 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 19:05:05,436 - AirwatchRun -INFO - Right ZPL is not entered into the Edit rules in Product Activation
+2017-11-22 19:07:39,640 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:07:39,726 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:07:41,866 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:07:54,910 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:07:54,911 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:07:57,264 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:07:59,443 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 19:08:10,136 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 19:08:12,337 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 19:08:14,515 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 19:08:21,641 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 19:08:25,580 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 19:10:16,075 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-22 19:10:20,743 - AirwatchRun -INFO - Save button clicked
+2017-11-22 19:33:40,086 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:33:40,191 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:33:42,343 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:34:03,771 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:34:03,772 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:34:06,102 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:34:08,283 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 19:34:19,167 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 19:34:21,977 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 19:34:24,151 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 19:34:27,941 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 19:34:31,559 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 19:36:19,828 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-22 19:36:24,147 - AirwatchRun -INFO - Save button clicked
+2017-11-22 19:36:29,160 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-22 19:36:32,128 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-22 19:36:35,447 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-22 19:36:58,551 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-22 19:37:00,685 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-22 19:37:02,960 - AirwatchRun -INFO - Sleeping for 3 minutes.
+2017-11-22 19:40:02,969 - AirwatchRun -INFO - Sleep Time Over.
+2017-11-22 19:40:11,831 - AirwatchRun -INFO - Checking for queued Product...
+2017-11-22 19:40:11,831 - AirwatchRun -INFO - Product Queued is not found, Reactivating the Product.
+2017-11-22 19:40:13,968 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu.
+2017-11-22 19:40:16,103 - AirwatchRun -INFO - Product List view clicked.
+2017-11-22 19:40:28,808 - AirwatchRun -INFO - Product is selected.
+2017-11-22 19:40:31,035 - AirwatchRun -INFO - Edit button clicked For ReActivation.
+2017-11-22 19:40:34,233 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-22 19:40:36,380 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-22 19:40:39,032 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-22 19:40:41,420 - AirwatchRun -INFO - Zpl is entered in List view Search box
+2017-11-22 19:47:31,902 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:47:31,999 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:47:34,153 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:47:46,283 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:47:46,284 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:47:48,613 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:47:50,815 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 19:48:00,832 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 19:48:03,029 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 19:48:05,212 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 19:48:13,235 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 19:48:16,942 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 19:50:08,395 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-22 19:50:13,108 - AirwatchRun -INFO - Save button clicked
+2017-11-22 19:50:20,852 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-22 19:50:23,283 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-22 19:50:26,058 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-22 19:50:47,401 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-22 19:50:49,552 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-22 19:50:51,435 - AirwatchRun -INFO - Sleeping for 3 minutes.
+2017-11-22 19:50:51,435 - AirwatchRun -INFO - Sleep Time Over.
+2017-11-22 19:51:00,079 - AirwatchRun -INFO - Checking for queued Product...
+2017-11-22 19:51:00,080 - AirwatchRun -INFO - Product Queued is not found, Reactivating the Product.
+2017-11-22 19:51:02,213 - AirwatchRun -INFO - Clicking Staging and Provisioning Menu.
+2017-11-22 19:53:46,044 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:53:46,146 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:53:48,308 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:54:00,720 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:54:00,721 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:54:03,039 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:54:05,276 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 19:54:15,334 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-22 19:54:17,500 - AirwatchRun -INFO - Edit button clicked
+2017-11-22 19:54:19,705 - AirwatchRun -INFO - Edit Rules Cliked
+2017-11-22 19:54:26,211 - AirwatchRun -INFO - Add Logical operator is clicked
+2017-11-22 19:54:30,075 - AirwatchRun -INFO - Add Rule button is clicked
+2017-11-22 19:54:47,079 - AirwatchRun -INFO - Save button clicked
+2017-11-22 19:54:55,131 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-22 19:54:57,577 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-22 19:55:00,322 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-22 19:55:19,401 - AirwatchRun -INFO - More dropDown Menu clicked.
+2017-11-22 19:55:21,507 - AirwatchRun -INFO - Products option Selected  in dropdown.
+2017-11-22 19:55:23,338 - AirwatchRun -INFO - Sleeping for 3 minutes.
+2017-11-22 19:55:23,339 - AirwatchRun -INFO - Sleep Time Over.
+2017-11-22 19:55:31,919 - AirwatchRun -INFO - Checking for queued Product...
+2017-11-22 19:55:31,921 - AirwatchRun -INFO - Succesfully the product is queued and Succes Text file is created...
+2017-11-22 19:55:31,921 - AirwatchRun -INFO - Product ==> 01 ==> is Queued found.
+2017-11-22 19:55:31,922 - AirwatchRun -INFO - Successfully Completed the Product queuing Process...
+2017-11-22 19:59:20,725 - AirwatchRun -INFO - Username Entered.
+2017-11-22 19:59:20,814 - AirwatchRun -INFO - Password Entered.
+2017-11-22 19:59:22,952 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 19:59:35,109 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 19:59:35,110 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 19:59:37,435 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 19:59:39,624 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 20:12:41,509 - AirwatchRun -INFO - Username Entered.
+2017-11-22 20:12:41,611 - AirwatchRun -INFO - Password Entered.
+2017-11-22 20:12:43,761 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 20:12:56,143 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 20:12:56,144 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 20:12:58,481 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 20:13:09,575 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 20:13:32,691 - AirwatchRun -ERROR - An Exception has occured while creating ProductActivationError.txt text file --> 
+java.io.FileNotFoundException: D:\WorkSpace_Selinum\Exe\ProductActivationError.txt (The system cannot find the path specified)
+2017-11-22 20:14:57,687 - AirwatchRun -INFO - Username Entered.
+2017-11-22 20:14:57,782 - AirwatchRun -INFO - Password Entered.
+2017-11-22 20:14:59,932 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-22 20:15:12,123 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-22 20:15:12,124 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-22 20:15:14,473 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-22 20:15:16,660 - AirwatchRun -INFO - Product List view clicked
+2017-11-22 20:15:20,705 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir9988_512}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0f8feb212f19d9c341c8719e6a705bef
+*** Element info: {Using=xpath, value=//input[@id='SearchText']}
+2017-11-23 18:01:41,722 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:01:41,846 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:01:44,021 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:01:57,160 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:01:57,161 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:01:59,530 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:02:01,696 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:02:13,101 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:02:15,276 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:02:15,339 - AirwatchRun -INFO - New Product Clicking Add Rules.
+2017-11-23 18:03:40,411 - AirwatchRun -INFO - Save button clicked
+2017-11-23 18:03:43,199 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 18:03:45,692 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 18:07:29,884 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:07:29,961 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:07:32,097 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:07:44,771 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:07:44,772 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:07:47,088 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:07:49,263 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:07:59,519 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:08:01,673 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:08:01,674 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:08:01,730 - AirwatchRun -INFO - New Product Clicking Add Rules.
+2017-11-23 18:12:11,352 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:12:11,434 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:12:13,567 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:12:26,215 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:12:26,216 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:12:28,567 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:12:30,762 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:12:40,991 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:12:43,245 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:12:43,246 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:12:43,302 - AirwatchRun -INFO - It is New Product Clicking Add Rules.
+2017-11-23 18:13:14,938 - AirwatchRun -INFO - Add Rules Button is Clicked.
+2017-11-23 18:13:19,106 - AirwatchRun -INFO - Save button clicked
+2017-11-23 18:13:19,285 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <button class="button large emphasis branded-highlight-bg branded-highlight-item" name="saveAnd..." type="submit" value="Activate">Activate</button> is not clickable at point (715, 700). Other element would receive the click: <div class="actions" align="center">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir5976_17868}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f5c11936f7482c5357c48fb76007c095
+2017-11-23 18:17:17,957 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:17:18,038 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:17:20,170 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:17:32,790 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:17:32,791 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:17:35,125 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:17:37,293 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:17:47,527 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:17:49,714 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:17:49,715 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:17:49,766 - AirwatchRun -INFO - It is New Product Clicking Add Rules.
+2017-11-23 18:18:21,530 - AirwatchRun -INFO - Add Rules Button is Clicked.
+2017-11-23 18:18:25,716 - AirwatchRun -INFO - Save button clicked
+2017-11-23 18:18:25,894 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.WebDriverException: unknown error: Element <button class="button large emphasis branded-highlight-bg branded-highlight-item" name="saveAnd..." type="submit" value="Activate">Activate</button> is not clickable at point (715, 700). Other element would receive the click: <div class="actions" align="center">...</div>
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir5840_21606}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: e8e9045ed8648ea21a001fbed9a86a87
+2017-11-23 18:21:19,842 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:21:19,920 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:21:22,055 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:21:34,772 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:21:34,772 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:21:37,111 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:21:39,295 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:21:49,632 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:21:51,822 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:21:51,823 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:21:51,873 - AirwatchRun -INFO - It is New Product Clicking Add Rules.
+2017-11-23 18:22:14,413 - AirwatchRun -INFO - Add Rules Button is Clicked.
+2017-11-23 18:24:03,414 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-23 18:24:08,017 - AirwatchRun -INFO - Save button clicked
+2017-11-23 18:24:10,888 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 18:24:13,326 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 18:24:58,098 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:24:58,177 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:25:00,312 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:25:12,645 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:25:12,646 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:25:14,986 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:25:17,195 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:25:27,569 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:25:29,775 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:25:29,776 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:25:29,863 - AirwatchRun -INFO - It is New Product Clicking Add Rules.
+2017-11-23 18:25:29,919 - AirwatchRun -ERROR - An Exception has occured in doAction method --> org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 34 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir6400_30426}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 92d0fa9a7207874037378965b6372255
+2017-11-23 18:32:17,962 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:32:18,057 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:32:20,217 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:32:33,065 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:32:33,066 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:32:35,399 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:32:37,583 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:32:47,774 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:32:49,998 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:32:49,999 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:32:50,104 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 18:33:15,410 - AirwatchRun -INFO - Add Rules Button is Clicked.
+2017-11-23 18:36:46,864 - AirwatchRun -INFO - Username Entered.
+2017-11-23 18:36:46,962 - AirwatchRun -INFO - Password Entered.
+2017-11-23 18:36:49,111 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 18:37:01,507 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 18:37:01,508 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 18:37:03,864 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 18:37:06,057 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 18:37:16,225 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 18:37:18,408 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 18:37:18,410 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 18:37:18,549 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 18:37:32,627 - AirwatchRun -INFO - Add Rule is Clicked.
+2017-11-23 18:37:34,795 - AirwatchRun -INFO - Add Rules Button is Clicked.
+2017-11-23 19:39:45,490 - AirwatchRun -INFO - Username Entered.
+2017-11-23 19:39:45,589 - AirwatchRun -INFO - Password Entered.
+2017-11-23 19:39:47,722 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 19:40:00,381 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 19:40:00,382 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 19:40:02,722 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 19:40:04,911 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 19:40:16,177 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 19:40:18,379 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 19:40:18,380 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 19:40:18,512 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 19:40:32,628 - AirwatchRun -INFO - Add Rule is Clicked.
+2017-11-23 19:40:34,706 - AirwatchRun -INFO - Add Rules Button is Clicked.
+2017-11-23 19:48:53,958 - AirwatchRun -INFO - Username Entered.
+2017-11-23 19:48:54,065 - AirwatchRun -INFO - Password Entered.
+2017-11-23 19:48:56,224 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 19:49:08,848 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 19:49:08,849 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 19:49:11,198 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 19:49:13,400 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 19:49:23,641 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 19:49:25,828 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 19:49:25,829 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 19:49:26,007 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 19:49:40,322 - AirwatchRun -INFO - Add Logical Operator is Clicked.
+2017-11-23 19:49:42,488 - AirwatchRun -INFO - Add Rule Button is Clicked.
+2017-11-23 19:51:37,853 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-23 19:51:42,689 - AirwatchRun -INFO - Save button clicked
+2017-11-23 19:51:48,033 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 19:51:50,540 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 19:51:53,286 - AirwatchRun -INFO - List View Menu clicked.
+2017-11-23 20:01:27,046 - AirwatchRun -INFO - Username Entered.
+2017-11-23 20:01:27,138 - AirwatchRun -INFO - Password Entered.
+2017-11-23 20:01:29,283 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 20:01:42,007 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 20:01:42,008 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 20:01:44,338 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 20:01:46,522 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 20:01:56,689 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 20:01:58,868 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 20:01:58,869 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 20:01:58,982 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 20:02:05,925 - AirwatchRun -INFO - Add Logical Operator is Clicked.
+2017-11-23 20:02:08,258 - AirwatchRun -INFO - Add Rule Button is Clicked.
+2017-11-23 20:03:57,942 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-23 20:04:02,615 - AirwatchRun -INFO - Save button clicked
+2017-11-23 20:04:11,030 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 20:04:14,036 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 20:04:14,639 - AirwatchRun -INFO - Product ==> 01 ==> is Queued found.
+2017-11-23 20:04:16,829 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 20:05:17,367 - AirwatchRun -ERROR - An Exception has occured in getElement method --> org.openqa.selenium.TimeoutException: Timed out after 60 seconds waiting for visibility of element located by By.xpath: //a[text()='Product List View']
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MUMD20193', ip: '10.207.13.37', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\BCHELL~1.COR\AppData\Local\Temp\scoped_dir8044_12204}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: e78af10907c1670ffb46802bf0ca1305
+2017-11-23 20:10:59,902 - AirwatchRun -INFO - Username Entered.
+2017-11-23 20:10:59,980 - AirwatchRun -INFO - Password Entered.
+2017-11-23 20:11:02,112 - AirwatchRun -INFO - Sumbit Button Clicked.
+2017-11-23 20:11:14,445 - AirwatchRun -INFO - checking Popup Dialog is present or not in the console.
+2017-11-23 20:11:14,445 - AirwatchRun -INFO -  Popup dialog Appearence in the Airwatch Console ==> false
+2017-11-23 20:11:16,752 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 20:11:18,938 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 20:11:29,213 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 20:11:31,420 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 20:11:31,421 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 20:11:31,503 - AirwatchRun -INFO - It is New Product Clicking Add Rules.
+2017-11-23 20:11:54,595 - AirwatchRun -INFO - Add Rule Button is Clicked.
+2017-11-23 20:13:38,725 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-23 20:13:43,037 - AirwatchRun -INFO - Save button clicked
+2017-11-23 20:13:46,121 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 20:13:48,572 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 20:13:49,747 - AirwatchRun -INFO - Product ==> 01 ==> is Queued found.
+2017-11-23 20:13:51,921 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 20:13:54,674 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 20:14:05,237 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 20:14:07,425 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 20:14:07,426 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 20:14:07,588 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 20:14:19,319 - AirwatchRun -INFO - Add Logical Operator is Clicked.
+2017-11-23 20:14:21,648 - AirwatchRun -INFO - Add Rule Button is Clicked.
+2017-11-23 20:16:17,120 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-23 20:16:21,727 - AirwatchRun -INFO - Save button clicked
+2017-11-23 20:16:35,684 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 20:16:38,148 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 20:16:38,758 - AirwatchRun -INFO - Product ==> 11 ==> is Queued found.
+2017-11-23 20:16:40,964 - AirwatchRun -INFO - Staging and Provisoining clicked.
+2017-11-23 20:16:43,709 - AirwatchRun -INFO - Product List view clicked
+2017-11-23 20:16:54,392 - AirwatchRun -INFO - fastcoke product is selected
+2017-11-23 20:16:56,576 - AirwatchRun -INFO - Edit button clicked
+2017-11-23 20:16:56,577 - AirwatchRun -INFO - Checking Wether the Product has already assigned rules or not…
+2017-11-23 20:16:56,832 - AirwatchRun -INFO - It is Existing Product Clicking Edit Rules.
+2017-11-23 20:17:10,958 - AirwatchRun -INFO - Add Logical Operator is Clicked.
+2017-11-23 20:17:13,145 - AirwatchRun -INFO - Add Rule Button is Clicked.
+2017-11-23 20:19:05,497 - AirwatchRun -INFO - Right ZPL is entered into the Edit rules in Product Activation
+2017-11-23 20:19:10,279 - AirwatchRun -INFO - Save button clicked
+2017-11-23 20:19:16,144 - AirwatchRun -INFO - Activate button Clicked.
+2017-11-23 20:19:18,589 - AirwatchRun -INFO - Fianl Activate button clicked.
+2017-11-23 20:19:19,179 - AirwatchRun -INFO - Product ==> 21 ==> is Queued found.
+2017-11-23 20:19:19,182 - AirwatchRun -INFO - Successfully Completed the Product queuing Process...
